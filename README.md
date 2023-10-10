@@ -8,7 +8,9 @@
 ```
 ## 使用
 ### step1: 在根目录下git clone 好713workspace
+``` xml
 sudo docker pull zzhfro/dockerstar:tagname
+```
 ### step2: 在宿主机  
 ``` xml
 sudo apt-get install x11-xserver-utils
