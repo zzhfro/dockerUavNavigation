@@ -3,14 +3,12 @@
 ## this docker is in update  
 
 ## 拉取镜像
-```xml
-   
-```
-## 使用
-### step1: 在根目录下git clone 好713workspace
 ``` xml
 sudo docker pull zzhfro/dockerstar:tagname
 ```
+## 使用
+### step1: 在根目录下git clone 好713workspace
+
 ### step2: 在宿主机  
 ``` xml
 sudo apt-get install x11-xserver-utils
