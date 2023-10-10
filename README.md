@@ -4,7 +4,7 @@
 
 ## 拉取镜像
 ``` xml
-sudo docker pull zzhfro/dockerstar:tagname
+sudo docker pull zzhfro/dockerstar:v1
 ```
 ## 使用
 ### step1: 在根目录下git clone 好713workspace
