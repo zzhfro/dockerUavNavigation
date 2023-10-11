@@ -7,7 +7,7 @@
 sudo docker pull zzhfro/dockerstar:v1
 ```
 ## 使用
-### step1: 在根目录下git clone 好713workspace
+### step1: 在～目录下git clone 好713workspace
 
 ### step2: 在宿主机  
 ``` xml
