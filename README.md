@@ -16,8 +16,8 @@ xhost +
 ```
 
 ### 启动容器
-#### --privileged 提供给docker 提供所有特权
-#### 宿主机：~/712workspace 对应容器内的/root/713workspace 文件夹会被挂载到容器上, （可能之后会用更好的方式） 
+#### --privileged 给docker 提供所有特权
+#### 宿主机：~/712workspace 对应容器内的/root/713workspace （文件夹会被挂载到容器上）, （可能之后会用更好的方式） 
 ```xml
 sudo docker run -it -v /tmp/.x11-unix:/tmp/.x11-unix -v ~/713workspace:/root/713workspace -e DISPLAY=unix$DISPLAY -e GDK_SCALE -e GDK_DPI_SCALE --net=host --privileged{id} /bin/bash
 ```
