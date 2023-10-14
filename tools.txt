@@ -1,1 +1,5 @@
 #this files just used for record 
+
+查看信号强度：
+sudo apt-get install iw
+iw dev 
