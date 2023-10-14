@@ -1,5 +1,5 @@
-#this files just used for record 
+#this file is just used for record 
 
 查看信号强度：
 sudo apt-get install iw
-iw dev 
+iw dev {你的无线网卡名称} station dump
