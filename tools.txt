@@ -1,5 +1,5 @@
 #this file is just used for record 
-
+# how to update the code in the container
 查看信号强度：（以及其他信息）
 sudo apt-get install iw
 iw dev {你的无线网卡名称} station dump
