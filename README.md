@@ -4,7 +4,7 @@
 
 ## 拉取镜像
 ``` xml
-sudo docker pull zzhfro/dockerstar:v2
+sudo docker pull zzhfro/dockerstar:v3
 ```
 ## 使用
 ### step1: 在～目录下git clone 好713workspace
