@@ -3,4 +3,4 @@
 查看信号强度：（以及其他信息）
 sudo apt-get install iw
 iw dev {你的无线网卡名称} station dump
-SHA256:RgYTQOEJAILgnXL45WTMkou15pMKRipQxeND+Mb8e2E zzhfro@gmail.com
+SHA256:T39gmu5j9dKSgVeJWrXZWaGZhu8fQhHG4uCflb+h34Y
