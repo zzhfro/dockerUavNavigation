@@ -1,4 +1,4 @@
-# this docker is for star group 
+# this docker is for star group （tested in nvidia jeston orin nx）
 ## includes but not limited to nx jetpack, Opencv 4.2.0 ceres 1.14.0 and cuda 11.4  mavros ros-noetic...
 ## this docker is in update  
 
