@@ -21,3 +21,10 @@ xhost +
 ```xml
 sudo docker run -it -v /tmp/.x11-unix:/tmp/.x11-unix -v ~/713workspace:/root/713workspace -e DISPLAY=unix$DISPLAY -e GDK_SCALE -e GDK_DPI_SCALE --net=host --privileged{id} /bin/bash
 ```
+
+#### 更新容器与提交(需要自己有docker账号)
+```xml
+sudo docker commit container:tag
+sudo docker login in
+sudo docker push
+```
