@@ -1,7 +1,0 @@
-#this file is just used for record 
-# how to update the code in the container
-查看信号强度：（以及其他信息）
-sudo apt-get install iw
-iw dev {你的无线网卡名称} station dump
-ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABgQC7QTBYGXFxKCExhJG1Bg/kMU/rSjsB6MC4DbT3WP9TbwgGE68TyyWc3IyydDeVNmyM5qUENWTn3yEFMqEU7BVqA+st6DvOhaJKW1SKGjuWsPTD8mP5ibjX2GTTOwPFcXvf1Gs+x15YmDUhRJ283o6nKmUntl+vlj9jEL8QK9mipy8MH8U+ObijG6wowDDkhm7itNu413PxherLAdirop7blSvPRDESMEeSghG1hFKd7WURW3yCcrDo4fsF/khtZ+VAUobR0hbFFOzsEU21pwtfjmAxD4nDBas1X8Xw4NjdBQ0aWfSZnmGkNbmqK79Muz3tKat5J+0lqadwlABNiPtb2GWF4vDs7HdqG/+rkSLugn9pf1/g8Ungq5uaeIx+3lNGuiE4PTYCa9Ma7GP6BCJujyfN3aPAScNR9uFa2WWhXd6W/aAbzUvFNy/Ub63ExRnYmAtMoMDP6OS3E/2YNDhandpdsqcVpNM2iCgqNrgbbqgy5WtYzndgeehZtZjZ4Gs= zzhfro@gmail.com
-
