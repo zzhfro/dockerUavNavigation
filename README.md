@@ -6,7 +6,7 @@
 ``` xml
 sudo docker pull zzhfro/dockerstar:v3
 ```
-## step2: 在宿主机  
+## 在宿主机  
 ``` xml
 sudo apt-get install x11-xserver-utils
 xhost +
